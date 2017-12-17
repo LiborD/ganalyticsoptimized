@@ -1,4 +1,4 @@
-module_name: Google Analytics
+module_name: Google Analytics Optimized
 compatible_versions: 1.0.0+
 author: thirty bees
 category: statistics
@@ -7,7 +7,7 @@ tags:
   - analytics
   - google analytics
   - eu law
-description_short: The Google Analytics module allows you to add your Google Analytics tracking code to your website.
+description_short: The Google Analytics Optimized module allows you to add your Google Analytics tracking code to your thirty bees website without taking a hit in Google Page Speed.
 description: description.md
 images:
   - image-1.png

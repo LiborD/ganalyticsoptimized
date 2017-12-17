@@ -1,1 +1,3 @@
-The Google Analytics module allows you to add your Google Analytics tracking code to your website. The module also supports Google Optimize for A/B testing as well. This module is included with all thirty bees installations.
+The Google Analytics Optimized module allows you to add your Google Analytics tracking code to your website in a way that does not hurt Google Page Speed. The module also supports Google Optimize for A/B testing as well. This module is included with all thirty bees installations.
+
+** The optimized version of this module hides your Google Analytics tag from Google, increasing your page speed score. This will also hide your tag from Google Tag Manager as well by reporting no http response. **
